@@ -1,0 +1,16 @@
+// Open your Android Studio project and make sure that your Project is of the type Android.
+//If it is not Android then select Android from the drop-down list. This is not necessary but will make it easier to search for the files and directories needed.
+
+//Now click on the strong>app directory and then click on the mipmap folder.
+//The order would be: app > mipmap.
+
+//Make sure that the image of the icon is already present on the computer.
+//Find the path of the image and paste it.
+
+//Now once we have our icon at the desired location and we know the path,
+right click on the mipmap directory and then click on New and choose Image Asset from the drop-down menu. The order of actions would be:
+mipmap(Right click) > New > Image Asset
+
+//Give the location to the image icon in Path under Source Asset.
+//If required, the image can be resized using the Resize option or change the color of our logo by heading to the Background Layer option.
+Once all the required changes are made, we will click on the Next button and then on Finish and then the icon of the app will be changed!
